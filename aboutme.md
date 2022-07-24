@@ -1,16 +1,11 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: Hakkımda
+subtitle: 
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+1996 İstanbul doğumluyum. 2016 yılında İstanbul Üniversitesi Bilgisayar Programcılığı bölümünden mezun oldum. Sonrasında iş hayatına girdiğim için lisans’a açıktan devam etmeye karar verdim ve şuan Yönetim Bilişim Sistemleri okumaktayım.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+2017 yılından bu yana bilişim sektöründe çalışıyorum. Bu zamana kadar çalıştığım firmalarda aldığım görevler sistem yöneticisi rolünde Linux işletim sistemlerinin yönetilmesi ve sorunlarının çözülmesi üzerineydi. Bununla beraber sanallaştırma ve konteyner teknolojileri ile ilgili kendimi geliştiriyorum.
 
-What else do you need?
-
-### My story
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+Blogda okuyabileceğiniz yazıların hepsi bu öğrenme sürecinde aldığım notların düzenlenmiş halidir. Buraya yazarak hem kendi bilgimi pekiştirmek, ihtiyacım olduğunda dönüp bakmak ve başkalarının da faydalanmasını amaçlıyorum. Umarım düşündüğüm gibi de olur.
