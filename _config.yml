@@ -46,14 +46,14 @@ round-avatar: true
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
 #  email: "sergen@sergenaras.com"
-#  rss: true  # remove this line if you don't want to show an RSS link at the bottom
+  rss: true  # remove this line if you don't want to show an RSS link at the bottom
   github: sergenaras
   medium: sergenaras
   linkedin: sergenaras
 
 # If you want your website to generate an RSS feed, provide a description
 # The URL for the feed will be https://<your_website>/feed.xml
-#rss-description: Linux ve açık kaynak yazılımlar hakkında notlar, denemeler
+rss-description: Linux ve açık kaynak yazılımlar hakkında notlar, denemeler
 
 ###########################
 # --- General options --- #
