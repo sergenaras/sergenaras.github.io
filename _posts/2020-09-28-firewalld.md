@@ -1,3 +1,9 @@
+---
+title: Firewalld
+date: 2020-09-28 12:00:00 -500
+categories: linux
+tags: [linux,rhel,centos,rocky linux,networkmanager]
+---
 Firewalld pek çok linux dağıtımında kullanılan bir firewall yönetim çözümüdür. Firewalld üzerinden kural gruplarını yönetmek için bölge(zone) adında bir yapı kullanır. Bölgeler, basitçe bilgisayarın bağlı olduğu ağ ile olan güvenlik seviyesi ile kuralların nasıl trafik kuracağını belirlenmesini sağlar.
 
 Gelen trafiği dağıtmak için firewalld iki yere bakar. Bunlardan ilki paketin geldiği **kaynak(source)** tanımlı mı? Tanımlı ise tanımlı olduğu yere göre ilgili kurala aktarılır. Diğeri ise paketin **ağ arayüzü(interface)** kısmıdır. Eğer bir ağ arayüzü tanımlanmış ise ilgili bölgenin kuralları uygulanır. Bu iki noktadan biri tanımlı değilse paket için **public** bölgesinin kuralları geçerli olacaktır.
