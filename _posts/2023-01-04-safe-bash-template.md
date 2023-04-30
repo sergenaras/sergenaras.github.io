@@ -1,15 +1,9 @@
-# Safe Bash Template
-
-Author: Maciej Radzikowski
-Completed: January 8, 2023
-Created by: Sergen
-Created time: January 4, 2023 11:57 PM
-Last edited by: Sergen
-Last edited time: April 17, 2023 11:37 AM
-Link: https://betterdev.blog/minimal-safe-bash-script-template/
-Status: Done
-Tags: bash
-Type: Article
+---
+title: Safe Bash Template
+date: 2023-01-04 12:00:00 -500
+categories: [linux]
+tags: [linux]
+---
 
 ```bash
 #!/usr/bin/env bash

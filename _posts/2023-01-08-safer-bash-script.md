@@ -1,15 +1,9 @@
-# Safer Bash Script
-
-Author: Vaneyckt
-Completed: January 8, 2023
-Created by: Sergen
-Created time: January 8, 2023 5:07 PM
-Last edited by: Sergen
-Last edited time: April 17, 2023 3:02 AM
-Link: https://vaneyckt.io/posts/safer_bash_scripts_with_set_euxo_pipefail/
-Status: Done
-Tags: bash
-Type: Article
+---
+title: Safer Bash Script
+date: 2023-01-08 12:00:00 -500
+categories: [linux]
+tags: [linux]
+---
 
 Çoğu zaman yazılımcılar bash script yazmak ile bir yazılım dilinde program yazmayı eş değer tutarlar. Ancak bu yanlış bir düşünce tarzıdır. Programlama dillerinde bulunan koruma katmanları script’lerde varsayılan olarak bulunmamaktadır. Bir örnek vermek gerekirseİ go dili varsayılan olarak atanan herhangi bir değişken kullanılmadığında derleme aşamasında hata verecektir ancak script’ler bununla ilgili bir hata üretmez ve çalışmaya devam ederler. 
 

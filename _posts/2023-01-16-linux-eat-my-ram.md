@@ -1,14 +1,9 @@
-# Linux Eat My Ram
-
-Completed: January 21, 2023
-Created by: Sergen
-Created time: January 16, 2023 1:49 PM
-Last edited by: Sergen
-Last edited time: April 17, 2023 10:46 AM
-Link: https://www.linuxatemyram.com
-Status: Done
-Tags: linux 102
-Type: Article
+---
+title: Linux Belleğimi Yiyor
+date: 2023-01-16 12:00:00 -500
+categories: [linux]
+tags: [linux]
+---
 
 **Neler oluyor?**
 

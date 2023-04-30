@@ -1,12 +1,9 @@
-# Log Yönetimi
-
-Created by: Sergen
-Created time: December 6, 2022 12:09 AM
-Last edited by: Sergen
-Last edited time: April 17, 2023 10:50 AM
-Status: Done
-Tags: linux 101
-
+---
+title: Log Yönetimi
+date: 2022-12-26 12:00:00 -500
+categories: [linux]
+tags: [linux]
+---
 Linux üzerinde logları yönetmek için kullandığımız bazı araçlar vardır.
 
 ## Rsyslog Nedir?

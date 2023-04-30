@@ -1,11 +1,9 @@
-# Terraform
-
-Created by: Sergen
-Created time: December 19, 2022 1:04 AM
-Last edited by: Sergen
-Last edited time: April 17, 2023 10:54 AM
-Status: In progress
-Tags: hashicorp
+---
+title: Terraform
+date: 2022-12-19 12:00:00 -500
+categories: [linux]
+tags: [linux]
+---
 
 Günümüzde yapıların büyümesi, tekrarlanan iş yükünün artması ve insanlar tarafından yapılan işlerin dikkat eksikiği durumunda unutulan bir adım sebebiyle işlerin yürümemesi gibi durumları ortadan kaldırmak için işlerin otomatize hale gelmiş, yani sektördeki adıyla Infrastructure as a Code başlığı altında toplanmıştır. Bu başlık altında, yazılımların konteyner hale getirilmesinden(Docker); konteyner hale getirilen yazılımların organizasyonuna(Kubernetes); oradan konfigürasyon yönetimine(Ansible) ve nihayet Terraform’un ana konusu olan Infrastructure Providing’e kadar pek çok alanda bulunmaktadır.
 
